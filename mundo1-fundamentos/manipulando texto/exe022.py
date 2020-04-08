@@ -1,0 +1,6 @@
+nome = input('Digite seu nome: ')
+semespaço = nome.replace(' ','')
+print(nome.upper())
+print(nome.lower())
+print(len(semespaço))
+print(len(nome.split()[0]))
