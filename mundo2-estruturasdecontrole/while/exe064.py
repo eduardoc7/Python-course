@@ -1,4 +1,4 @@
-num = 0; soma = 0;cont = 0;
+num = 0; soma = 0; cont = 0;
 print('Digite vários números para saber sua soma \nDigite "999" para sair do programa!')
 while num != 999:
     num = int(input('Digite um numero inteiro qualquer: '))

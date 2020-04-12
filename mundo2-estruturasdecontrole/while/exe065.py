@@ -1,5 +1,5 @@
 print('Bem-vindo ao nosso programa para saber: \nO maior número \nO menor número \nE a media de todos digitados\n')
-cont = 0; media = 0; num = 0; maiorNum = 0; menorNum = 0;opcao = ''
+cont = media = maiorNum = menorNum = 0; opcao = ''
 while 'N' not in opcao:
     num = int(input('Digite um número qualquer: '))
     if cont == 1:
