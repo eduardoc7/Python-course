@@ -41,7 +41,7 @@ while True:
         for i, g in enumerate(jogadores[busca]['goals']):
             print(f'    No jogo {i+1} fez {g} goals.')
     print('-' * 40)
-print('<< VOLTE SEMPRE >>D')
+print('<< VOLTE SEMPRE >>')
 
 
 
