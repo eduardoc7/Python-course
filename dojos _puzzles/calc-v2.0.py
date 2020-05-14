@@ -24,6 +24,6 @@ while True:
     resultado = calculadora(x, y)
     print(f'A {opcao} entre {x} e {y} é igual a {resultado[opcao]}')
     sair = str(input('Deseja continuar? [S/N] '))
-    if opcao in 'Nn':
+    if sair in 'Nn':
         break
 print('<<< PROGRAMA ENCERRADO >>>')
