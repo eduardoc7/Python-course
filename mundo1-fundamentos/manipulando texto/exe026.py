@@ -1,5 +1,5 @@
 frase = input('Digite uma frase qualquer: ')
 frase = frase.upper()
-print('Numero de vezes que aparece o a: ',frase.count('A'))
-print('Primeira posição',frase.find('A'))
-print('Na ultima vez ela aparece na posição',frase.rfind('A'))
+print('Numero de vezes que aparece o a: ', frase.count('A'))
+print('Primeira posição', frase.find('A'))
+print('Na ultima vez ela aparece na posição', frase.rfind('A'))
