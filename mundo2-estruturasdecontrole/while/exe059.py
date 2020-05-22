@@ -3,14 +3,18 @@ num1 = int(input('Digite um valor: '))
 num2 = int(input('Digite outro valor: '))
 opcao = 0
 while opcao != 5:
-    opcao = int(input(''' 
-SELECIONE O QUE VOCE DESEJA FAZER COM OS VALORES:
-[1] para somar
-[2] para multiplicar
-[3] para maior
-[4] para digitar novos valores
-[5] para sair do programa
---> '''))
+    while True:
+        opcao = int(input(''' 
+    SELECIONE O QUE VOCE DESEJA FAZER COM OS VALORES:
+    [1] para somar
+    [2] para multiplicar
+    [3] para maior
+    [4] para digitar novos valores
+    [5] para sair do programa
+    --> '''))
+        print('Opcão inválida! Tente novamente!')
+        if 1 <= opcao <= 5:
+            break
     if opcao == 1:
         soma = num1 + num2
         print('A soma entre {} e {} é {}'.format(num1,num2,soma))
