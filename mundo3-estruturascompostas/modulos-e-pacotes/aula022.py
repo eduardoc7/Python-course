@@ -16,6 +16,7 @@ from uteis import numbers
     # no python/prjeto do pycharm toda pasta é considerado um pacote e pode servir para importação
     # cada pacote deve conter na sua pasta o arquivo __init__.py
     # um pacote pode conter outros pacotes dentro da sua pasta raiz ou simplesmente outros módulos
+
 num = int(input('Digite um número: '))
 fat = numbers.fatorial(num)
 print(f'O fatorial de {num} é {fat}')

@@ -6,7 +6,7 @@
 # mas que não é considerada um erro, tal como o fim do arquivo.
 # Comandos escritos da forma correta porém encontram uma forma inválida de execução
 # Exemplo no Python: NameError, ValueError, ZeroDivisionError, IndexError, ModuleNotFoundError, KeyError, EOFError, OSError, MemoryError
-# No python todas as exeções são filhos de uma classe maior chamada exception
+# No python todas as exeções são filhos de uma classe maior chamada exception, que podemos utilizar para buscar informações sobre alguma exceção
 # o try funciona, meio que: ao invés de eu mandar o programa ele fazer exatamente tal coisa, com o try ele primeiro vai tentar
 # o objetivo é eliminar e personalizar os tipos de erros mais comuns
 # Try:
