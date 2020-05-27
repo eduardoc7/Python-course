@@ -1,5 +1,5 @@
 # https://docs.python.org/3/library/functions.html#open
-file =open('testing.txt', 'w+')# abrir o arquivo, com o parametro w+ para leitura e escrita
+file = open('testing.txt', 'w+')# abrir o arquivo, com o parametro w+ para leitura e escrita
 file.write('linha 1 \n')# escrever no arquivo
 file.write('linha 2 \n')# escrever no arquivo
 
