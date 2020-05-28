@@ -1,4 +1,5 @@
 import funcoes
 
 # Main Program
-funcoes.menu_principal()
+while True:
+    funcoes.menu_principal()
