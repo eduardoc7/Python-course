@@ -7,10 +7,11 @@
   
 > Repositório dedicado a resoluções de todos os desafios propostos no canal **Curso Em Vídeo** em seu curso de Python.
 
-## Mundos
-- [*Mundo 1*](https://github.com/matheusfelipeog/curso-em-video-python3/tree/master/Mundo_1_Fundamentos) - *Fundamentos - ( 35 Desafios )*
-- [*Mundo 2*](https://github.com/matheusfelipeog/curso-em-video-python3/tree/master/Mundo_2_EstruturasDeControle) - *Estrutura de Controle - ( 36 Desafios )*
-- [*Mundo 3*](https://github.com/matheusfelipeog/curso-em-video-python3/tree/master/Mundo_3_EstruturasCompostas) - *Estruturas Compostas - ( 44 Desafios )*
+## Desafios
+- [*Mundo 1*](https://github.com/EduardoCordeiro7/Python-course/tree/master/mundo1-fundamentos) - *Fundamentos - ( 35 Desafios )*
+- [*Mundo 2*](https://github.com/EduardoCordeiro7/Python-course/tree/master/mundo2-estruturasdecontrole) - *Estrutura de Controle - ( 36 Desafios )*
+- [*Mundo 3*](https://github.com/EduardoCordeiro7/Python-course/tree/master/mundo3-estruturascompostas) - *Estruturas Compostas - ( 44 Desafios )*
+- [*Dojos Puzzles*](https://github.com/EduardoCordeiro7/Python-course/tree/master/dojos%20_puzzles) - *Desafios gerados aleatoriamente*
 
 <h2 align="center">Sociais</h2>
 <p align="center">
