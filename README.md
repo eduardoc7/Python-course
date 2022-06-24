@@ -19,6 +19,6 @@
     <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1564075921/curso-em-video/facebook_kctlwa.png" width="45px" alt="Facebook Curso em Vídeo"/>
   </a>
   <a href="https://www.youtube.com/user/cursosemvideo">
-    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1564075921/curso-em-video/youtube_ziaheb.png" width="45px" alt="Youtube Curseo em Vídeo" />
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1564075921/curso-em-video/youtube_ziaheb.png" width="45px" alt="Youtube Curso em Vídeo" />
   </a>
 </p>
